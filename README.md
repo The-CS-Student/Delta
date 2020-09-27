@@ -2,7 +2,7 @@
 
 ## Implementation
  - [x] Tensor
- 	- [ ] Tensor
+ 	- [x] Tensor
  - [ ] Layer
  	- [ ] Linear
  	- [ ] Tanh
