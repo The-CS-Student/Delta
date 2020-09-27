@@ -1,7 +1,7 @@
 # Delta - A Deep Learning Library written in Python
 
 ## Implementation
- - [ x ] Tensor
+ - [x] Tensor
  	- [ ] Tensor
  - [ ] Layer
  	- [ ] Linear
